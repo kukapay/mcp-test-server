@@ -1,6 +1,6 @@
 # MCP Test Server
 
-A lightweight MCP test server for verifying client connectivity, providing tools, resources, and prompts for integration.
+Lightweight MCP test server for verifying client connectivity, with tools and prompts for integration. Try it at [kukayay.com](https://test.kukapay.com) or install locally.
 
 ## Features
 
